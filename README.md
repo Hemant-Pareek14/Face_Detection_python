@@ -1,1 +1,1 @@
-# Face_Detection_python
+The Face Detection project in Python utilizes OpenCV and machine learning algorithms to identify and locate faces in images or video streams. It provides real-time detection capabilities and can be integrated into various applications, such as security systems or photo organization tools.
